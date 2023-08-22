@@ -1,0 +1,25 @@
+Posicion,Nombre,Imagen
+1,Inicio,Imagenes/inicio.png
+2,Playa Tamarindo,Imagenes/playa/tamarindo.png
+3,Playa Jacó,Imagenes/playa/jaco.png
+4,Playa Santa Teresa,Imagenes/playa/santateresa.png
+5,Playa Montezuma,Imagenes/playa/montezuma.png
+6,Playa Conchal,Imagenes/playa/conchal.png
+7,Cárcel,Imagenes/carcel.png
+8,Playa Dominical,Imagenes/playa/dominical.png
+9,Playa Manuel Antonio,Imagenes/playa/manuelantonio.png
+10,Playa Flamingo,Imagenes/playa/flamingo.png
+11,Playa Hermosa,Imagenes/playa/hermosa.png
+12,Playa Grande,Imagenes/playa/grande.png
+13,Parada libre,Imagenes/paradalibre.png
+14,Playa Mal País,Imagenes/playa/malpais.png
+15,Playa Punta Uva,Imagenes/playa/puntauva.png
+16,Playa Avellanas,Imagenes/playa/avellanas.png
+17,Playa Carrillo,Imagenes/playa/carrillo.png
+18,Playa Samara,Imagenes/playa/samara.png
+19,¡Suerte!,Imagenes/suerte.png
+20,Playa Brasilito,Imagenes/playa/brasilito.png
+21,Playa Negra,Imagenes/playa/negra.png
+22,Playa Cahuita,Imagenes/playa/cahuita.png
+23,Playa Ocotal,Imagenes/playa/ocotal.png
+24,Playa Tortuga,Imagenes/playa/tortuga.png

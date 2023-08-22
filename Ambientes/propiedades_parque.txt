@@ -1,0 +1,24 @@
+1,Inicio,0,0
+2,Volcán Arenal,200,20
+3,Barra Honda,150,15
+4,Braulio Carillo,180,18
+5,Carara,160,16
+6,Chirripó,220,22
+7,Cárcel,0,0
+8,Volcán Irazú,170,17
+9,Isla del Coco,240,24
+10,Juan Castro Blanco,250,25
+11,La Amistad,190,19
+12,Los Quetzales,210,21
+13,Paradalibre,0,0
+14,Miravalles,170,17
+15,Palo Verde,150,15
+16,Piedras Blancas,200,20
+17,Poás,180,18
+18,Rincón de la Vieja,160,16
+19,¡Suerte!,0,0
+20,San Lucas,190,19
+21,Tapanti,170,17
+22,Tenorio,160,16
+23,Tortuguero,150,15
+24,Turrialba,180,18

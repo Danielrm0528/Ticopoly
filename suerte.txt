@@ -1,0 +1,13 @@
+'Debe pagar una multa de 100',0,-100
+'Reciba 300 como bonificación',0,300
+'A la cárcel...',1,7
+'Al inicio!',1,1
+'A parada libre!',1,13
+'Es su cumpleaños reciba 50 de regalo',0,50
+'Reciba una herencia de 200',0,200
+'75 de multa por exceso de velocidad',0,-75
+'Pague 100 de impuestos',0,-100
+'Ganó 350 de la lotería',0,350
+'Es Navidad reciba 200 de regalo', 0, 200
+'Pague 100 de peaje',0,100
+'Vámonos de viaje',1,14

@@ -1,0 +1,24 @@
+1,Inicio,0,0
+2,San José,200,20
+3,Alajuela,150,15
+4,Heredia,180,18
+5,Cartago,160,16
+6,Escazú,220,22
+7,Cárcel,0,0
+8,Curridabat,170,17
+9,Desamparados,240,24
+10,Santa Ana,250,25
+11,Tibás,190,19
+12,Moravia,210,21
+13,Parada libre,0,0
+14,Goicoechea,170,17
+15,Santo Domingo,150,15
+16,La Unión,200,20
+17,Belén,180,18
+18,Montes de Oca,160,16
+19,¡Suerte!,0,0
+20,Pavas,190,19
+21,Coronado,170,17
+22,Paraíso,160,16
+23,Barva,150,15
+24,San Rafael,180,18

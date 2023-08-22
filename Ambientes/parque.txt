@@ -1,0 +1,25 @@
+Posicion,Nombre,Imagen
+1,Inicio,Imagenes/inicio.png
+2,Volcán Arenal,Imagenes/parque/arenal.png
+3,Barra Honda,Imagenes/parque/barrahonda.png
+4,Braulio Carillo,Imagenes/parque/brauliocarrillo.png
+5,Carara,Imagenes/parque/carara.png
+6,Chirripó,Imagenes/parque/chirripo.png
+7,Cárcel,Imagenes/carcel.png
+8,Volcán Irazú,Imagenes/parque/irazu.png
+9,Isla del Coco,Imagenes/parque/isladelcoco.png
+10,Juan Castro Blanco,Imagenes/parque/juancastroblanco.png
+11,La Amistad,Imagenes/parque/laamistad.png
+12,Los Quetzales,Imagenes/parque/losquetzales.png
+13,Parada libre,Imagenes/paradalibre.png
+14,Miravalles,Imagenes/parque/miravalles.png
+15,Palo Verde,Imagenes/parque/paloverde.png
+16,Piedras blancas,Imagenes/parque/piedrasblancas.png
+17,Poás,Imagenes/parque/poas.png
+18,Rincón de la Vieja,Imagenes/parque/rincondelavieja.png
+19,¡Suerte!,Imagenes/suerte.png
+20,San Lucas,Imagenes/parque/sanlucas.png
+21,Tapanti,Imagenes/parque/tapanti.png
+22,Tenorio,Imagenes/parque/tenorio.png
+23,Tortuguero,Imagenes/parque/tortuguero.png
+24,Turrialba,Imagenes/parque/turrialba.png

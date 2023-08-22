@@ -1,0 +1,24 @@
+1,Inicio,0,0
+2,Playa Tamarindo,200,20
+3,Playa Jacó,150,15
+4,Santa Teresa,180,18
+5,Playa Montezuma,160,16
+6,Playa Conchal,220,22
+7,Cárcel,0,0
+8,Playa Dominical,170,17
+9,Manuel Antonio,240,24
+10,Playa Flamingo,250,25
+11,Playa Hermosa,190,19
+12,Playa Grande,210,21
+13,Parada libre,0,0
+14,Playa Mal País,170,17
+15,Playa Punta Uva,150,15
+16,Playa Avellanas,200,20
+17,Playa Carrillo,180,18
+18,Playa Samara,160,16
+19,¡Suerte!,0,0
+20,Playa Brasilito,190,19
+21,Playa Negra,170,17
+22,Playa Cahuita,160,16
+23,Playa Ocotal,150,15
+24,Playa Tortuga,180,18

@@ -1,0 +1,25 @@
+Posicion,Nombre,Imagen
+1,Inicio,Imagenes/inicio.png
+2,San José,Imagenes/gam/sanjose.png
+3,Alajuela,Imagenes/gam/alajuela.png
+4,Heredia,Imagenes/gam/heredia.png
+5,Cartago,Imagenes/gam/cartago.png
+6,Escazú,Imagenes/gam/escazu.png
+7,Cárcel,Imagenes/carcel.png
+8,Curridabat,Imagenes/gam/curridabat.png
+9,Desamparados,Imagenes/gam/desamparados.png
+10,Santa Ana,Imagenes/gam/santaana.png
+11,Tibás,Imagenes/gam/tibas.png
+12,Moravia,Imagenes/gam/moravia.png
+13,Parada libre,Imagenes/paradalibre.png
+14,Goicoechea,Imagenes/gam/goicoechea.png
+15,Santo Domingo,Imagenes/gam/santodomingo.png
+16,La Unión,Imagenes/gam/launion.png
+17,Belén,Imagenes/gam/belen.png
+18,Montes de Oca,Imagenes/gam/montesdeoca.png
+19,¡Suerte!,Imagenes/suerte.png
+20,Pavas,Imagenes/gam/pavas.png
+21,Coronado,Imagenes/gam/coronado.png
+22,Paraíso,Imagenes/gam/paraiso.png
+23,Barva,Imagenes/gam/barva.png
+24,San Rafael,Imagenes/gam/sanrafael.png
